@@ -1,6 +1,6 @@
 {
   "name": "zun",
-  "version": "1.2.1",
+  "version": "1.2.2",
   "description": "前端代码格式化工具",
   "main": "index.js",
   "scripts": {
